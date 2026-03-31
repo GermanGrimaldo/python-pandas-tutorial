@@ -15,4 +15,4 @@ DatetimeIndex(['2021-05-01', '2021-05-02', '2021-05-03', '2021-05-04',
 
 ## 💡 Hint:
 
-+ In the date format you can use `DD-MM-YYYY` or `YYYY-MM-DD`.
++ Use the date format `YYYY-MM-DD` (ISO 8601), as it is the standard and avoids confusion. Other formats may not work as expected.
