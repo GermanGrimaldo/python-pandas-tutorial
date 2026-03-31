@@ -15,4 +15,5 @@ DatetimeIndex(['2021-05-01', '2021-05-02', '2021-05-03', '2021-05-04',
 
 ## 💡 Pista:
 
-+ En las fechas puedes usar los formatos `DD-MM-AAAA` o `AAAA-MM-DD`.
++ Usa el formato de fecha `AAAA-MM-DD` (ISO 8601), ya que es el estándar y evita confusiones. Otros formatos pueden no funcionar como esperas.
+
